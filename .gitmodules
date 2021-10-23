@@ -1,0 +1,3 @@
+[submodule "QuantumAnnealers"]
+	path = QuantumAnnealers
+	url = https://github.com/milanleonard/QuantumAnnealers
